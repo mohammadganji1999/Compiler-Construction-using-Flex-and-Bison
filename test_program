@@ -1,0 +1,8 @@
+class Program{
+	int x, y[5];
+
+	int foo(int x, boolean y) {
+		int x;
+		return 6;
+	}
+}
